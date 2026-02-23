@@ -1,5 +1,5 @@
 {
-    "name": "UnityEssentials.EditorWindowDrawer.Editor",
+    "name": "UnityEssentials.Editor.Drawer.WindowBuilder.Editor",
     "rootNamespace": "UnityEssentials",
     "references": [
         "GUID:df82a1744907e4d9683c86643b9a9137"
